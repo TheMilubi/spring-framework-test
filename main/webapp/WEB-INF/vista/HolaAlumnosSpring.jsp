@@ -9,9 +9,9 @@
 
 </head>
 <body>
-
+<p>
 Hola ${param.nombreAlumno}. Bienvenido al curso de Spring.
-
+</p>
 <h2>Atención todos</h2>
 <p>${mensajeClaro}</p>
 
